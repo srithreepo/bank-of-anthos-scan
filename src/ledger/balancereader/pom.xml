@@ -95,7 +95,7 @@
         <dependency>
             <groupId>io.micrometer</groupId>
             <artifactId>micrometer-registry-stackdriver</artifactId>
-            <version>1.13.3</version>
+            <version>1.13.7</version>
             <exclusions>
                 <exclusion>
                     <groupId>ch.qos.logback</groupId>
